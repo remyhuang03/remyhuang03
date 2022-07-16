@@ -14,8 +14,8 @@
 # Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=roberthuang1024&show_icons=true&count_private=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roberthuang1024)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roberthuang1024&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roberthuang1024)
 
 # Activity
 - 💻 Learning front-end developing...
