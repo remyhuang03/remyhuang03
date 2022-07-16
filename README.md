@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <!--
-**roberthuang1024/roberthuang1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Stats
+
+![](https://github-readme-stats.vercel.app/api?username=roberthuang1024&show_icons=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roberthuang1024)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roberthuang1024&layout=compact)
+
+# Activity
+- 💻 Learning front-end developing...
