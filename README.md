@@ -17,5 +17,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roberthuang1024&layout=compact)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roberthuang1024)
 
-# Activity
-- 💻 Learning front-end developing...
+# Activities
+- 💻 Learning front-end developing.
+- 💻 Learning basic knowledges of network.
+- 💬 Preparing for the CET4 exam.
+
+# Contact Me
+- 📧 Email: [guyan1024@aliyun.com](mailto:guyan1024@aliyun.com)
+- 🐙 Github: [roberthuang1024](https://github.com/roberthuang1024)
+- 🐧 QQ: 2191806401
