@@ -1,11 +1,10 @@
 # Intro 
 
-Hi there 👋. I am Robert Huang, a freshman from NJUST, China. I major in Network Security.
+Hi there 👋. I am Robert Huang, a university student from NJUST, China (major in Cyberspace Security).
 
-Some repos were created when I was just a beginner in programming, so some codes might be really bad 😂.
+Some repos were created when I was just a beginner in programming, so some of the codes in them might seem really foolish 😂.
 
 I am currently working on the [SJA](https://github.com/roberthuang1024/sja-v3) project. SJA is a tool to analyse, compare and edit the Scratch files.
-
 
 # Stats
 
@@ -13,9 +12,8 @@ I am currently working on the [SJA](https://github.com/roberthuang1024/sja-v3) p
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roberthuang1024&layout=compact)
 
 # Activities
-- 🐍 Having a hard time futher learning python.
-- 💻 Learning basic knowledges of network.
-- 💬 Preparing for the CET4 exam.
+- 🖊 This month is crowded with all kinds of university examinations! Busy preparing...
+- 💻 Learning basic knowledges of network and front-end developing.
 
 # Contact Me
 - 📧 Email: [guyan1024@aliyun.com](mailto:guyan1024@aliyun.com)
