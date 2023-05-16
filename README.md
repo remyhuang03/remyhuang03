@@ -8,8 +8,6 @@ I am currently working on the [SJA](https://github.com/roberthuang1024/sja-v3) p
 
 # Stats
 
-![](https://github-readme-stats.vercel.app/api?username=roberthuang1024&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roberthuang1024&layout=compact)
 
 # Contact Me
 - 📧 Email: [guyan1024@aliyun.com](mailto:guyan1024@aliyun.com)
