@@ -9,7 +9,7 @@ I am currently working on the [SJA](https://github.com/roberthuang1024/sja-v3) p
 # Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=roberthuang1024&show_icons=true&count_private=true)
 
-![TopLang](https://github-readme-stats.vercel.app/api/top-langs?username=roberthuang1024&show_icons=true)
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs?username=roberthuang1024&show_icons=true&layout=compact)
 
 
 # Contact Me
