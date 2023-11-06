@@ -13,6 +13,6 @@ I am currently working on the [SJA](https://github.com/roberthuang1024/sja-v3) p
 
 
 # Contact Me
-- 📧 Email: [guyan1024@aliyun.com](mailto:guyan1024@aliyun.com)
+- 📧 Email: [chinaguyan@gmail.com](mailto:chinaguyan@gmail.com)
 - 🐙 Github: [roberthuang1024](https://github.com/roberthuang1024)
 - 🐧 QQ: 2191806401
