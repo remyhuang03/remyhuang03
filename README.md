@@ -1,6 +1,6 @@
 # Intro 
 
-Hi there 👋. I am Robert Huang, a university student from NJUST, China (major in Cyberspace Security).
+Hi there 👋. I am Remy Huang, a university student from NJUST, China (major in Cyberspace Security).
 
 Some repos were created when I was just a beginner in programming, so some of the codes in them might seem really foolish 😂.
 
