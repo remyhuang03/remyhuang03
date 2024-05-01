@@ -7,9 +7,9 @@ Hi there 👋. I am Remy Huang, a university student from NJUST, China (majoring
 Just a new hand in developing.
 
 # Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=remyhuang03&show_icons=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=remyhuang03&show_icons=true&count_private=true&theme=github_dark)
 
-![TopLang](https://github-readme-stats.vercel.app/api/top-langs?username=remyhuang03&show_icons=true&layout=compact)
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs?username=remyhuang03&show_icons=true&layout=compact&theme=github_dark)
 
 
 # Contact Me
