@@ -7,27 +7,27 @@ Hi there 👋. I am Remy Huang, an undergraduate student from School of Cyberspa
 A new hand in web developing.
 
 ## Stats
-![Stats-contribution](https://github-readme-stats.vercel.app/api?username=remyhuang03&show_icons=true&count_private=true&theme=github_dark)
-![Stats-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=remyhuang03&layout=compact&theme=dark)
+![Stats-contribution](https://github-readme-stats-phi-lovat-15.vercel.app/api?username=remyhuang03&show_icons=true&count_private=true&theme=github_dark)
+![Stats-lang](https://github-readme-stats-phi-lovat-15.vercel.app/api/top-langs/?username=remyhuang03&layout=compact&theme=dark)
 
 <!--![TopLang](https://github-readme-stats.vercel.app/api/top-langs?username=remyhuang03&show_icons=true&layout=compact&theme=github_dark)-->
 
 ## Skills & Preferred tools
 - Languages
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cpp,python,php,html,css,js,mysql,markdown,typst,scratch&theme=dark&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,dart,typst,markdown,html,css,js,mysql,scratch&theme=dark&titles=true)
 
 - OS & Dev Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,debian,vscode,githubcopilot,chatgpt,neovim&theme=dark&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,debian,git,neovim,vscode,gemini,githubcopilot&theme=dark&titles=true)
 
 - Frameworks & Libs
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,tailwind,shadcn&theme=dark&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter,nextjs,tailwind,shadcn,caddy&theme=dark&titles=true)
 
 - Misc
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=inkscape,gmail,obsidian&theme=dark&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=inkscape,gmail,pr&theme=dark&titles=true)
 
 
 ## Contacts
