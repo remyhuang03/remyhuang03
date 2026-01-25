@@ -19,7 +19,7 @@ A new hand in web developing.
 
 - OS & Dev Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,debian,git,neovim,vscode,gemini,githubcopilot&theme=dark&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,debian,git,neovim,vscode,claude,gemini,githubcopilot&theme=dark&titles=true)
 
 - Frameworks & Libs
 
@@ -27,7 +27,7 @@ A new hand in web developing.
 
 - Misc
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=inkscape,gmail,pr&theme=dark&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,inkscape,gmail,pr&theme=dark&titles=true)
 
 
 ## Contacts
