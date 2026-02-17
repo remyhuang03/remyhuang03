@@ -2,9 +2,12 @@
 
 ## Intro 
 
-Hi there 👋. I am Remy Huang, an undergraduate student from School of Cyberspace Security in NJUST, China.
+Hi there 👋. I am Remy Huang, a prospective graduate student at School of Intelligent Software and Engineering in NJU, China.
 
-A new hand in web developing.
+Interested in cross-platform development.
+
+I use Arch, by the way ();
+I use Hyprland, by the way ();
 
 ## Stats
 ![Stats-contribution](https://github-readme-stats-phi-lovat-15.vercel.app/api?username=remyhuang03&show_icons=true&count_private=true&theme=github_dark)
