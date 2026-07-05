@@ -2,11 +2,12 @@
 
 ## Intro 
 
-Hi there 👋. I am Remy Huang, a prospective graduate student at School of Intelligent Software and Engineering in NJU, China.
+Hi there 👋. I am Remy(a) Huang, a graduate student at School of Intelligent Software and Engineering in NJU, China.
 
 Interested in cross-platform development.
 
 I use Arch, by the way ();
+
 I use Hyprland, by the way ();
 
 ## Stats
@@ -20,17 +21,19 @@ I use Hyprland, by the way ();
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,dart,typst,markdown,html,css,js,mysql,scratch&theme=dark&titles=true)
 
-- OS & Dev Tools
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,debian,git,neovim,vscode,claude,gemini,githubcopilot&theme=dark&titles=true)
-
 - Frameworks & Libs
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter,nextjs,tailwind,shadcn,caddy&theme=dark&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter,nextjs,tailwind,caddy&theme=dark&titles=true)
+
+
+- OS, DE & tools
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,ubuntu,hyprland,claude,chatgpt,git,github,vscode&theme=dark&titles=true)
+
 
 - Misc
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,inkscape,gmail,pr&theme=dark&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,inkscape,pr&theme=dark&titles=true)
 
 
 ## Contacts
