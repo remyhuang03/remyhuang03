@@ -16,26 +16,16 @@ I use Hyprland, by the way ();
 
 <!--![TopLang](https://github-readme-stats.vercel.app/api/top-langs?username=remyhuang03&show_icons=true&layout=compact&theme=github_dark)-->
 
-## Skills & Preferred tools
-- Languages
+## Preferred Tech Stacks
+- AI products
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,dart,typst,markdown,html,css,js,mysql,scratch&theme=dark&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt&theme=dark&titles=true)
 
-- Frameworks & Libs
+- Languages & Frameworks
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter,nextjs,tailwind,caddy&theme=dark&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter,rust,nextjs,tailwind,typst,markdown&theme=dark&titles=true)
 
 
 - OS, DE & tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,ubuntu,hyprland,claude,chatgpt,git,github,vscode&theme=dark&titles=true)
-
-
-- Misc
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,inkscape,pr&theme=dark&titles=true)
-
-
-## Contacts
-- 📧 Email: [me@remya.top](mailto:me@remya.top)
-- 🐙 Github: [remyhuang03](https://github.com/remyhuang03)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arch,hyprland,ubuntu,git,github,vscode,figma,caddy&theme=dark&titles=true)
